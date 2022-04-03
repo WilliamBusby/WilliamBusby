@@ -29,7 +29,7 @@ I'm currently a junior software engineer based in the beautiful Sussex countrysi
 ## Socials
 
 <a href="https://www.codecademy.com/profiles/WilliamBusby" title="Check out my Codecademy!"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codecademy" /></a>
-<a href="#" title="Check out my Pluralsight"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" alt="Pluralsight" /></a>
+<a href="https://app.pluralsight.com/profile/william-busby-f8" title="Check out my Pluralsight"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" alt="Pluralsight" /></a>
 <a href="https://www.linkedin.com/in/william-busby-001b2b1b9/" title="Contact me on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <!--

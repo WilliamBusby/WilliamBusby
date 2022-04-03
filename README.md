@@ -6,7 +6,7 @@
 I'm currently a junior software engineer based in the beautiful Sussex countryside.
 
 - 🚀 Studied Aerospace engineering at university, where I was most interested in computational fluid dynamics analysis and software. 
-- 📚 Recently completed a 12 week full stack course with <a href="https://nology.io/" title="_Nology.io">\_Nology.io</a> developing my techstack.
+- 📚 Recently completed a 12 week full stack course with <a href="https://nology.io/" title="_nology">\_nology</a> developing my techstack.
 - 💻 Interested in a wide variety of coding languages and always looking to learn more!
 
 ## Tech Stack

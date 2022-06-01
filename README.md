@@ -29,7 +29,7 @@ I'm currently a junior software engineer based in the beautiful Sussex countrysi
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![AngujlarJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angujlar](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Socials
 

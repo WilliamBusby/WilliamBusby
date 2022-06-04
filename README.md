@@ -45,7 +45,7 @@ I'm currently a junior software engineer based in the beautiful Sussex countrysi
 - Angular dashboard with Python API to GCP
 - Battleships build in Angular
 - Accessibility example HTML page with instructions for general improvement
-- Python code efficiency tester (Analysing time taken, level of complexity, number of loops, CPU usage etc...)
+- Python code efficiency tester (Analysing time taken, level of complexity, number of loops, margin of numerical error, CPU usage etc...)
 - Discord bot to alert for changes in <a href="https://livechart.me" title="Livechart">Livechart.me</a> RSS feed.
 
 <!--

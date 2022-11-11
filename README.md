@@ -7,7 +7,6 @@ I'm currently a junior software engineer based in the beautiful Sussex countrysi
 
 - 🚀 Studied Aerospace engineering at university.
 - 📚 Completed a 12 week full stack course with <a href="https://nology.io/" title="_nology">\_nology</a> developing my techstack.
-- 💼 Currently working for Accenture in the data studio.
 - 💻 Interested in a wide variety of coding languages and always looking to learn more!
 
 ## Tech Stack
